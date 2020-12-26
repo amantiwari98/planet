@@ -1,0 +1,41 @@
+.tabs {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+	align-items: center;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.tabs-sel {
+  border-bottom: 3px solid skyblue;
+  padding: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.tab-unsel {
+  padding: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.card {
+	border: 1px solid grey;
+	width: 200px;
+	margin: 30px;
+	text-align: center;
+}
+
+.fav-btn {
+	background-color: aquamarine;
+}
+
+.sel {
+	background-color: lightgreen;
+}
