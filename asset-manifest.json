@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/planet/static/css/main.5ded48e0.chunk.css",
+    "main.js": "/planet/static/js/main.3f332c2b.chunk.js",
+    "main.js.map": "/planet/static/js/main.3f332c2b.chunk.js.map",
+    "runtime-main.js": "/planet/static/js/runtime-main.15f09ae8.js",
+    "runtime-main.js.map": "/planet/static/js/runtime-main.15f09ae8.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/planet/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.11dc1440.chunk.js": "/planet/static/js/2.11dc1440.chunk.js",
+    "static/js/2.11dc1440.chunk.js.map": "/planet/static/js/2.11dc1440.chunk.js.map",
+    "static/js/3.4add1f3d.chunk.js": "/planet/static/js/3.4add1f3d.chunk.js",
+    "static/js/3.4add1f3d.chunk.js.map": "/planet/static/js/3.4add1f3d.chunk.js.map",
+    "index.html": "/planet/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/planet/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5ded48e0.chunk.css.map": "/planet/static/css/main.5ded48e0.chunk.css.map",
+    "static/js/2.11dc1440.chunk.js.LICENSE.txt": "/planet/static/js/2.11dc1440.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f09ae8.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.11dc1440.chunk.js",
+    "static/css/main.5ded48e0.chunk.css",
+    "static/js/main.3f332c2b.chunk.js"
+  ]
+}
